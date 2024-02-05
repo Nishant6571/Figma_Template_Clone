@@ -1,8 +1,8 @@
-<h1>Description </h1>
+# Figma Clone
 
-Our project is a clone of figma design.portfolio_Detail_1440--> and Contack_1440.
+Our project is a meticulous clone of the Figma designs "portfolio_Detail_1440" and "Contact_1440." This endeavor represents our dedication to precision in replicating intricate designs while maintaining functionality and aesthetic appeal.
 
-<h1>Team Members are</h2>
+## Team Members
 
 1.  Khadim Khan
 2.  Rohan Kumar Sethi
@@ -10,16 +10,21 @@ Our project is a clone of figma design.portfolio_Detail_1440--> and Contack_1440
 4.  Himanshu
 5.  Kusuma
 
-<h1>PREREQUISITES</h2>
+## Prerequisites
 
-1. Any Web-Browsers
-2. Active Internet Connection
+Ensure the following prerequisites are met to experience the project seamlessly:
 
-<h1>TECH STACK </h1>
+1. Any Web-Browsers: Compatible with modern web browsers for optimal performance.
+2. Active Internet Connection: Required for accessing and interacting with the project.
 
-1. html
-2. css
-3. sass
 
-PROJECT- Deployed-Link
+## Technology Stack
+
+The technology stack employed in our project includes:
+
+1. HTML: Providing the structural foundation of our web pages.
+2. CSS: Styling the project to enhance visual appeal and user experience.
+3. SASS: Elevating the efficiency of CSS with advanced features and capabilities.
+
+## Project Deployed Link
 https://cw-unit3-project.netlify.app/
