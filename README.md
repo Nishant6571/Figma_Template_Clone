@@ -34,11 +34,11 @@ https://cw-unit3-project.netlify.app/
 <br></br>
 ![Screenshot (120)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/b01504ce-f5d4-4f24-a5bc-95610c96bbda)
 <br></br>
-![Screenshot (123)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/fee9a4f4-173d-404d-b9a6-ec810c060108)
+![Screenshot (121)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/bee7ec33-e5c2-4df8-8295-ffbd5ca92ae2)
 <br></br>
 ![Screenshot (122)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/fc211396-4d17-4f86-be27-6e703d1c6d83)
 <br></br>
-![Screenshot (121)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/bee7ec33-e5c2-4df8-8295-ffbd5ca92ae2)
+![Screenshot (123)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/fee9a4f4-173d-404d-b9a6-ec810c060108)
 <br></br>
 
 # Contact Us
@@ -47,7 +47,4 @@ https://cw-unit3-project.netlify.app/
 
 
 
-# Sign Up
-
-<br></br>
 
