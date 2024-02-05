@@ -28,3 +28,23 @@ The technology stack employed in our project includes:
 
 ## Project Deployed Link
 https://cw-unit3-project.netlify.app/
+
+## Project Screenshots 
+# Home
+![Screenshot (124)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/d2c551b2-6e12-4a1f-ac88-5ea209ed94ff)
+<br></br>
+![Screenshot (123)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/fee9a4f4-173d-404d-b9a6-ec810c060108)
+<br></br>
+![Screenshot (122)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/fc211396-4d17-4f86-be27-6e703d1c6d83)
+<br></br>
+![Screenshot (121)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/bee7ec33-e5c2-4df8-8295-ffbd5ca92ae2)
+<br></br>
+
+# Contact Us
+![Screenshot (120)](https://github.com/Nishant6571/Figma_Template_Clone/assets/146922474/b01504ce-f5d4-4f24-a5bc-95610c96bbda)
+
+
+# Sign Up
+
+<br></br>
+
